@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dream-maple/static/css/main.073c9b0a.css",
+    "main.js": "/dream-maple/static/js/main.e21bb1f5.js",
+    "static/js/787.b97048ab.chunk.js": "/dream-maple/static/js/787.b97048ab.chunk.js",
+    "static/media/logo.svg": "/dream-maple/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dream-maple/index.html",
+    "main.073c9b0a.css.map": "/dream-maple/static/css/main.073c9b0a.css.map",
+    "main.e21bb1f5.js.map": "/dream-maple/static/js/main.e21bb1f5.js.map",
+    "787.b97048ab.chunk.js.map": "/dream-maple/static/js/787.b97048ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e21bb1f5.js"
+  ]
+}
