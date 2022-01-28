@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/dream-maple/static/css/main.f00b58d5.css",
-    "main.js": "/dream-maple/static/js/main.7d9b871a.js",
+    "main.css": "/dream-maple/static/css/main.1dd5d358.css",
+    "main.js": "/dream-maple/static/js/main.c3278aa9.js",
     "static/css/445.bc4f19db.chunk.css": "/dream-maple/static/css/445.bc4f19db.chunk.css",
     "static/js/445.609e7faa.chunk.js": "/dream-maple/static/js/445.609e7faa.chunk.js",
-    "static/css/673.293f7de9.chunk.css": "/dream-maple/static/css/673.293f7de9.chunk.css",
-    "static/js/673.5fee79e6.chunk.js": "/dream-maple/static/js/673.5fee79e6.chunk.js",
+    "static/css/958.157c99eb.chunk.css": "/dream-maple/static/css/958.157c99eb.chunk.css",
+    "static/js/958.5f7dd4ac.chunk.js": "/dream-maple/static/js/958.5f7dd4ac.chunk.js",
     "static/js/787.b97048ab.chunk.js": "/dream-maple/static/js/787.b97048ab.chunk.js",
     "static/media/top4jobs.png": "/dream-maple/static/media/top4jobs.dc2730a024a74a308b8f.png",
     "static/media/pirate.jpg": "/dream-maple/static/media/pirate.473a80e22bace33037aa.jpg",
@@ -22,16 +22,16 @@
     "static/media/quantum-2-webfont.woff": "/dream-maple/static/media/quantum-2-webfont.2a0b986e01401e849efd.woff",
     "static/media/quantum-2-webfont.woff2": "/dream-maple/static/media/quantum-2-webfont.dbac88fa309a50b28330.woff2",
     "index.html": "/dream-maple/index.html",
-    "main.f00b58d5.css.map": "/dream-maple/static/css/main.f00b58d5.css.map",
-    "main.7d9b871a.js.map": "/dream-maple/static/js/main.7d9b871a.js.map",
+    "main.1dd5d358.css.map": "/dream-maple/static/css/main.1dd5d358.css.map",
+    "main.c3278aa9.js.map": "/dream-maple/static/js/main.c3278aa9.js.map",
     "445.bc4f19db.chunk.css.map": "/dream-maple/static/css/445.bc4f19db.chunk.css.map",
     "445.609e7faa.chunk.js.map": "/dream-maple/static/js/445.609e7faa.chunk.js.map",
-    "673.293f7de9.chunk.css.map": "/dream-maple/static/css/673.293f7de9.chunk.css.map",
-    "673.5fee79e6.chunk.js.map": "/dream-maple/static/js/673.5fee79e6.chunk.js.map",
+    "958.157c99eb.chunk.css.map": "/dream-maple/static/css/958.157c99eb.chunk.css.map",
+    "958.5f7dd4ac.chunk.js.map": "/dream-maple/static/js/958.5f7dd4ac.chunk.js.map",
     "787.b97048ab.chunk.js.map": "/dream-maple/static/js/787.b97048ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f00b58d5.css",
-    "static/js/main.7d9b871a.js"
+    "static/css/main.1dd5d358.css",
+    "static/js/main.c3278aa9.js"
   ]
 }
